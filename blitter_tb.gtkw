@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.34 (w)1999-2012 BSI
+[*] Sun Feb 15 03:03:17 2015
+[*]
+[dumpfile] "blitter_tb.vcd"
+[dumpfile_mtime] "Sun Feb 15 03:01:42 2015"
+[dumpfile_size] 718
+[savefile] "blitter_tb.gtkw"
+[timestart] 0
+[size] 1680 974
+[pos] -1 -1
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] blitter_tb.
+[sst_width] 223
+[signals_width] 206
+[sst_expanded] 1
+[sst_vpaned_height] 283
+@28
+blitter_tb.dut.clk
+blitter_tb.dut.enable
+@22
+blitter_tb.dut.addr[27:1]
+blitter_tb.dut.data[15:0]
+@28
+blitter_tb.dut.uds
+blitter_tb.dut.lds
+blitter_tb.dut.write
+blitter_tb.dut.dtack
+@29
+blitter_tb.dut.berr
+[pattern_trace] 1
+[pattern_trace] 0
