@@ -1,0 +1,7 @@
+*.vcd
+*.vvp
+blitter_tb_result.mem
+testimage/env/*
+testimage/*.png
+testimage/*.bin
+testimage/*.mem
